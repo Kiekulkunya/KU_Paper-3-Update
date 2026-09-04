@@ -1,0 +1,94 @@
+date,country_std,country,region_group,agency,event_type,previous_rating,credit_rating,prev_numeric,rating_numeric,notch_change,investment_grade,outlook_after,source_url
+2019-01-01,Austria,Austria,Europe,Fitch,Baseline at period start,,AA+,,20,,IG,,https://countryeconomy.com/ratings/austria
+2019-01-01,Austria,Austria,Europe,Moody's,Baseline at period start,,Aa1,,20,,IG,,https://countryeconomy.com/ratings/austria
+2019-01-01,Austria,Austria,Europe,S&P,Baseline at period start,,AA+,,20,,IG,,https://countryeconomy.com/ratings/austria
+2019-01-01,Belgium,Belgium,Europe,Fitch,Baseline at period start,,AA-,,18,,IG,,https://countryeconomy.com/ratings/belgium
+2025-06-13,Belgium,Belgium,Europe,Fitch,Downgrade,AA-,A+,18.0,17,-1.0,IG,Stable,https://www.fitchratings.com/research/sovereigns/fitch-downgrades-belgium-to-a-outlook-stable-13-06-2025
+2019-01-01,Belgium,Belgium,Europe,Moody's,Baseline at period start,,Aa3,,18,,IG,,https://countryeconomy.com/ratings/belgium
+2026-04-17,Belgium,Belgium,Europe,Moody's,Downgrade,Aa3,A1,18.0,17,-1.0,IG,Stable,https://ratings.moodys.com/ratings-news/463405
+2019-01-01,Belgium,Belgium,Europe,S&P,Baseline at period start,,AA,,19,,IG,,https://countryeconomy.com/ratings/belgium
+2026-04-24,Belgium,Belgium,Europe,S&P,Downgrade,AA,AA-,19.0,18,-1.0,IG,Stable,https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3551666
+2019-01-01,Brazil,Brazil,Latin America,Fitch,Baseline at period start,,BB-,,9,,HY,,https://countryeconomy.com/ratings/brazil
+2019-01-01,Brazil,Brazil,Latin America,Moody's,Baseline at period start,,Ba2,,10,,HY,,https://countryeconomy.com/ratings/brazil
+2024-10-01,Brazil,Brazil,Latin America,Moody's,Upgrade,Ba2,Ba1,10.0,11,1.0,HY,Positive,https://countryeconomy.com/ratings/brazil
+2019-01-01,Brazil,Brazil,Latin America,S&P,Baseline at period start,,BB-,,9,,HY,,https://countryeconomy.com/ratings/brazil
+2023-12-19,Brazil,Brazil,Latin America,S&P,Upgrade,BB-,BB,9.0,10,1.0,HY,Stable,https://countryeconomy.com/ratings/brazil
+2019-01-01,Chile,Chile,Latin America,Fitch,Baseline at period start,,A,,16,,IG,,https://countryeconomy.com/ratings/chile
+2020-10-15,Chile,Chile,Latin America,Fitch,Downgrade,A,A-,16.0,15,-1.0,IG,Stable,https://countryeconomy.com/ratings/chile
+2019-01-01,Chile,Chile,Latin America,Moody's,Baseline at period start,,A1,,17,,IG,,https://countryeconomy.com/ratings/chile
+2022-09-15,Chile,Chile,Latin America,Moody's,Downgrade,A1,A2,17.0,16,-1.0,IG,Stable,https://countryeconomy.com/ratings/chile
+2019-01-01,Chile,Chile,Latin America,S&P,Baseline at period start,,A+,,17,,IG,,https://countryeconomy.com/ratings/chile
+2021-03-24,Chile,Chile,Latin America,S&P,Downgrade,A+,A,17.0,16,-1.0,IG,Stable,https://countryeconomy.com/ratings/chile
+2019-01-01,Denmark,Denmark,Europe,Fitch,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/denmark
+2019-01-01,Denmark,Denmark,Europe,Moody's,Baseline at period start,,Aaa,,21,,IG,,https://countryeconomy.com/ratings/denmark
+2019-01-01,Denmark,Denmark,Europe,S&P,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/denmark
+2019-01-01,France,France,Europe,Fitch,Baseline at period start,,AA,,19,,IG,,https://countryeconomy.com/ratings/france
+2023-04-28,France,France,Europe,Fitch,Downgrade,AA,AA-,19.0,18,-1.0,IG,Stable,https://countryeconomy.com/ratings/france
+2025-09-12,France,France,Europe,Fitch,Downgrade,AA-,A+,18.0,17,-1.0,IG,Stable,https://countryeconomy.com/ratings/france
+2019-01-01,France,France,Europe,Moody's,Baseline at period start,,Aa2,,19,,IG,,https://countryeconomy.com/ratings/france
+2024-12-14,France,France,Europe,Moody's,Downgrade,Aa2,Aa3,19.0,18,-1.0,IG,Stable,https://countryeconomy.com/ratings/france
+2019-01-01,France,France,Europe,S&P,Baseline at period start,,AA,,19,,IG,,https://countryeconomy.com/ratings/france
+2024-05-31,France,France,Europe,S&P,Downgrade,AA,AA-,19.0,18,-1.0,IG,Stable,https://countryeconomy.com/ratings/france
+2025-10-17,France,France,Europe,S&P,Downgrade,AA-,A+,18.0,17,-1.0,IG,Stable,https://countryeconomy.com/ratings/france
+2019-01-01,Germany,Germany,Europe,Fitch,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/germany
+2019-01-01,Germany,Germany,Europe,Moody's,Baseline at period start,,Aaa,,21,,IG,,https://countryeconomy.com/ratings/germany
+2019-01-01,Germany,Germany,Europe,S&P,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/germany
+2019-01-01,Hungary,Hungary,Europe,Fitch,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/hungary
+2019-02-22,Hungary,Hungary,Europe,Fitch,Upgrade,BBB-,BBB,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/hungary
+2019-01-01,Hungary,Hungary,Europe,Moody's,Baseline at period start,,Baa3,,12,,IG,,https://countryeconomy.com/ratings/hungary
+2021-09-24,Hungary,Hungary,Europe,Moody's,Upgrade,Baa3,Baa2,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/hungary
+2019-01-01,Hungary,Hungary,Europe,S&P,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/hungary
+2019-02-15,Hungary,Hungary,Europe,S&P,Upgrade,BBB-,BBB,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/hungary
+2023-01-27,Hungary,Hungary,Europe,S&P,Downgrade,BBB,BBB-,13.0,12,-1.0,IG,Stable,https://countryeconomy.com/ratings/hungary
+2019-01-01,India,India,Emerging Asia,Fitch,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/india
+2019-01-01,India,India,Emerging Asia,Moody's,Baseline at period start,,Baa2,,13,,IG,,https://countryeconomy.com/ratings/india
+2020-06-01,India,India,Emerging Asia,Moody's,Downgrade,Baa2,Baa3,13.0,12,-1.0,IG,Negative,https://countryeconomy.com/ratings/india
+2019-01-01,India,India,Emerging Asia,S&P,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/india
+2025-08-14,India,India,Emerging Asia,S&P,Upgrade,BBB-,BBB,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/india
+2019-01-01,Indonesia,Indonesia,Emerging Asia,Fitch,Baseline at period start,,BBB,,13,,IG,,https://countryeconomy.com/ratings/indonesia
+2019-01-01,Indonesia,Indonesia,Emerging Asia,Moody's,Baseline at period start,,Baa2,,13,,IG,,https://countryeconomy.com/ratings/indonesia
+2019-01-01,Indonesia,Indonesia,Emerging Asia,S&P,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/indonesia
+2019-05-31,Indonesia,Indonesia,Emerging Asia,S&P,Upgrade,BBB-,BBB,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/indonesia
+2019-01-01,Italy,Italy,Europe,Fitch,Baseline at period start,,BBB,,13,,IG,,https://countryeconomy.com/ratings/italy
+2020-04-28,Italy,Italy,Europe,Fitch,Downgrade,BBB,BBB-,13.0,12,-1.0,IG,Stable,https://countryeconomy.com/ratings/italy
+2021-12-03,Italy,Italy,Europe,Fitch,Upgrade,BBB-,BBB,12.0,13,1.0,IG,Stable,https://countryeconomy.com/ratings/italy
+2025-09-19,Italy,Italy,Europe,Fitch,Upgrade,BBB,BBB+,13.0,14,1.0,IG,Stable,https://www.reuters.com/markets/europe/fitch-upgrades-italy-bbb-outlook-stable-2025-09-19/
+2019-01-01,Italy,Italy,Europe,Moody's,Baseline at period start,,Baa3,,12,,IG,,https://countryeconomy.com/ratings/italy
+2025-11-21,Italy,Italy,Europe,Moody's,Upgrade,Baa3,Baa2,12.0,13,1.0,IG,Stable,https://ratings.moodys.com/ratings-news/461420
+2019-01-01,Italy,Italy,Europe,S&P,Baseline at period start,,BBB,,13,,IG,,https://countryeconomy.com/ratings/italy
+2025-04-11,Italy,Italy,Europe,S&P,Upgrade,BBB,BBB+,13.0,14,1.0,IG,Stable,https://disclosure.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3544833
+2019-01-01,Japan,Japan,Asia-Pacific,Fitch,Baseline at period start,,A,,16,,IG,,https://countryeconomy.com/ratings/japan
+2019-01-01,Japan,Japan,Asia-Pacific,Moody's,Baseline at period start,,A1,,17,,IG,,https://countryeconomy.com/ratings/japan
+2019-01-01,Japan,Japan,Asia-Pacific,S&P,Baseline at period start,,A+,,17,,IG,,https://countryeconomy.com/ratings/japan
+2019-01-01,Malaysia,Malaysia,Emerging Asia,Fitch,Baseline at period start,,A-,,15,,IG,,https://countryeconomy.com/ratings/malaysia
+2020-12-04,Malaysia,Malaysia,Emerging Asia,Fitch,Downgrade,A-,BBB+,15.0,14,-1.0,IG,Stable,https://countryeconomy.com/ratings/malaysia
+2019-01-01,Malaysia,Malaysia,Emerging Asia,Moody's,Baseline at period start,,A3,,15,,IG,,https://countryeconomy.com/ratings/malaysia
+2019-01-01,Malaysia,Malaysia,Emerging Asia,S&P,Baseline at period start,,A-,,15,,IG,,https://countryeconomy.com/ratings/malaysia
+2019-01-01,Netherlands,Netherlands,Europe,Fitch,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/netherlands
+2019-01-01,Netherlands,Netherlands,Europe,Moody's,Baseline at period start,,Aaa,,21,,IG,,https://countryeconomy.com/ratings/netherlands
+2019-01-01,Netherlands,Netherlands,Europe,S&P,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/netherlands
+2019-01-01,Philippines,Philippines,Emerging Asia,Fitch,Baseline at period start,,BBB,,13,,IG,,https://countryeconomy.com/ratings/philippines
+2019-01-01,Philippines,Philippines,Emerging Asia,Moody's,Baseline at period start,,Baa2,,13,,IG,,https://countryeconomy.com/ratings/philippines
+2019-01-01,Philippines,Philippines,Emerging Asia,S&P,Baseline at period start,,BBB,,13,,IG,,https://countryeconomy.com/ratings/philippines
+2019-04-30,Philippines,Philippines,Emerging Asia,S&P,Upgrade,BBB,BBB+,13.0,14,1.0,IG,Stable,https://countryeconomy.com/ratings/philippines
+2019-01-01,Romania,Romania,Europe,Fitch,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/romania
+2019-01-01,Romania,Romania,Europe,Moody's,Baseline at period start,,Baa3,,12,,IG,,https://countryeconomy.com/ratings/romania
+2019-01-01,Romania,Romania,Europe,S&P,Baseline at period start,,BBB-,,12,,IG,,https://countryeconomy.com/ratings/romania
+2019-01-01,Spain,Spain,Europe,Fitch,Baseline at period start,,A-,,15,,IG,,https://countryeconomy.com/ratings/spain
+2025-09-26,Spain,Spain,Europe,Fitch,Upgrade,A-,A,15.0,16,1.0,IG,Stable,https://www.fitchratings.com/research/sovereigns/fitch-upgrades-spain-to-a-outlook-stable-26-09-2025
+2019-01-01,Spain,Spain,Europe,Moody's,Baseline at period start,,Baa1,,14,,IG,,https://countryeconomy.com/ratings/spain
+2025-09-26,Spain,Spain,Europe,Moody's,Upgrade,Baa1,A3,14.0,15,1.0,IG,Stable,https://www.reuters.com/markets/europe/spain-gets-triple-credit-boost-moodys-fitch-join-sp-upgrades-2025-09-26/
+2019-01-01,Spain,Spain,Europe,S&P,Baseline at period start,,A-,,15,,IG,,https://countryeconomy.com/ratings/spain
+2019-09-20,Spain,Spain,Europe,S&P,Upgrade,A-,A,15.0,16,1.0,IG,Stable,https://countryeconomy.com/ratings/spain
+2025-09-12,Spain,Spain,Europe,S&P,Upgrade,A,A+,16.0,17,1.0,IG,Stable,https://www.reuters.com/markets/europe/sp-upgrades-spains-rating-a-aa-1-2025-09-12/
+2019-01-01,Sweden,Sweden,Europe,Fitch,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/sweden
+2019-01-01,Sweden,Sweden,Europe,Moody's,Baseline at period start,,Aaa,,21,,IG,,https://countryeconomy.com/ratings/sweden
+2019-01-01,Sweden,Sweden,Europe,S&P,Baseline at period start,,AAA,,21,,IG,,https://countryeconomy.com/ratings/sweden
+2019-01-01,Thailand,Thailand,Emerging Asia,Fitch,Baseline at period start,,BBB+,,14,,IG,,https://countryeconomy.com/ratings/thailand
+2019-01-01,Thailand,Thailand,Emerging Asia,Moody's,Baseline at period start,,Baa1,,14,,IG,,https://countryeconomy.com/ratings/thailand
+2019-01-01,Thailand,Thailand,Emerging Asia,S&P,Baseline at period start,,BBB+,,14,,IG,,https://countryeconomy.com/ratings/thailand
+2019-01-01,UK,United Kingdom,Europe,Fitch,Baseline at period start,,AA,,19,,IG,,https://countryeconomy.com/ratings/uk
+2020-03-27,UK,United Kingdom,Europe,Fitch,Downgrade,AA,AA-,19.0,18,-1.0,IG,Negative,https://countryeconomy.com/ratings/uk
+2019-01-01,UK,United Kingdom,Europe,Moody's,Baseline at period start,,Aa2,,19,,IG,,https://countryeconomy.com/ratings/uk
+2020-10-16,UK,United Kingdom,Europe,Moody's,Downgrade,Aa2,Aa3,19.0,18,-1.0,IG,Stable,https://countryeconomy.com/ratings/uk
+2019-01-01,UK,United Kingdom,Europe,S&P,Baseline at period start,,AA,,19,,IG,,https://countryeconomy.com/ratings/uk
